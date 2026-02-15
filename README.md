@@ -29,4 +29,4 @@ I am open to learning, improving continuously, and gaining real-world experience
 
 ## Contact
 
-LinkedIn: (buraya link gelecek)
+LinkedIn: https://www.linkedin.com/in/ebrar-avcıoğlu-562206316?utm_source=share_via&utm_content=profile&utm_medium=member_ios
