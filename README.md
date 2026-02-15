@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ebrar 👋
 
-<!--
-**Ebraravci/Ebraravci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Frontend Developer Candidate  
+📍 Bursa, Turkey  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Engineering student focused on improving my frontend development skills.  
+Currently, I am strengthening my knowledge in HTML and CSS and building a solid foundation in JavaScript.
+
+My long-term goal is to become a full-stack developer who builds clean, responsive and user-friendly web applications.
+
+I am open to learning, improving continuously, and gaining real-world experience through a summer internship opportunity in Bursa.
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript (learning)
+- Git
+- GitHub
+
+## Currently Working On
+
+- Improving responsive design skills
+- Building small frontend projects
+- Strengthening JavaScript fundamentals
+
+## Contact
+
+LinkedIn: (buraya link gelecek)
